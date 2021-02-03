@@ -3,6 +3,7 @@
 ### About: 1936 by Ronald Fisher.<br>
 The iris flower has three related species, namely Iris setosa, Iris virginica and Iris versicolor.<br>
 It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species.<br>
+![](https://images.app.goo.gl/jdXt8ScZRA1YpSuRA)
 ### Four features were measured from each sample for the aim of separating all the three species(in centimeters):
 - Sepal Length
 - Sepal width 
